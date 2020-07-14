@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there，I'm yck 👋
 
-<!--
-**KieSun/KieSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-我是 yck，目前任职于酷家乐业务架构组，有需要的内推的可以发邮件至 zx597813039@gmail.com。
+目前任职于酷家乐业务架构组，有需要的内推的可以发邮件至 zx597813039@gmail.com。
 
 **Languages and Tools:**  
 
