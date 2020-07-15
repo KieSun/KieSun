@@ -12,9 +12,9 @@
 [![KieSun's github stats](https://github-readme-stats.vercel.app/api?username=KieSun)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/KieSun/react-interpretation">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KieSun&repo=react-interpretation&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KieSun&repo=react-interpretation" />
 </a>
 
 <a href="https://github.com/KieSun/Dream">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KieSun&repo=Dream&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KieSun&repo=Dream" />
 </a>
