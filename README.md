@@ -59,6 +59,12 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/KieSun/per-moniteur?style=plastic&labelColor=373f51&color=e07a5f" /></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/KieSun/wx-md-editor">wx-md-editor</a></td>
+      <td>微信公众号编辑器</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KieSun/wx-md-editor?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KieSun/wx-md-editor?style=plastic&labelColor=373f51&color=e07a5f" /></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/KieSun/types-install">types-install</a></td>
       <td>yarn 的时候顺便安装 types 库</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/KieSun/types-install?style=plastic&labelColor=373f51&color=e07a5f" /></td>
