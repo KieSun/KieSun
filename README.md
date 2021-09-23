@@ -1,3 +1,5 @@
+![](https://github.com/KieSun/KieSun/blob/master/header_.png)
+
 ### Hi there，I'm yck 👋
 
 目前任职于酷家乐业务架构组，有需要的内推的可以发邮件至 zx597813039@gmail.com。
