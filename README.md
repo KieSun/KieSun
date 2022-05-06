@@ -2,7 +2,7 @@
 
 ### Hi there，I'm yck 👋
 
-目前任职于快手商业化-通用技术组，有需要的内推的可以发邮件至 zx597813039@gmail.com。
+目前 all in web3，远程办公中。
 
 **Languages:**  
 
